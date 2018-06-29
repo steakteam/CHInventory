@@ -25,7 +25,7 @@ import java.util.logging.Level;
 /**
  * Created by JunHyeong Lim on 2018-06-27
  */
-@MSExtension("CHWindow")
+@MSExtension("CHInventory")
 public class CHInventory extends AbstractExtension {
     public static Optional<Integer> parseInteger(String contents) {
         try {
